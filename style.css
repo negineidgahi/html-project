@@ -1,0 +1,16 @@
+body {
+    margin: 3em
+}
+
+header{
+    font-size:50px; font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; color:rgb(76, 4, 4)"
+}
+
+p{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; color:brown"
+}
+
+#facts {
+    font-style:inherit; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
